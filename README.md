@@ -34,6 +34,9 @@ See: http://blog-skeleton.clients.modxcloud.com/
 3. If you did not install the Demo Content - Create 1 Collection for your Blog, 2 Resources (Check Container Box) for Archive Container and Category Container 
 4. Web Context Settings > match the values to your Archive Container, Blog Container, and Category Container
 
+![tree](tree.png)
+
+
 ## Archivist System Setting
 
  - Key: archivist.archive_ids
@@ -41,6 +44,9 @@ See: http://blog-skeleton.clients.modxcloud.com/
  - namespace: archivist
  - area lexicon: furls
  - value: 5:arc_  (5 being resource id)
+
+![arc](archive-setting.png)
+
 
 ## Tagger Setup
 
